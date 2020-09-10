@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is stream",
+      "id": 1
+    },
+    {
+      "title": "I create this stream",
+      "description": "made by me",
+      "userId": "106007984774251576901",
+      "id": 2
+    },
+    {
+      "title": "programmatic nav",
+      "description": "you should not see this on the form page!!",
+      "userId": "106007984774251576901",
+      "id": 3
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "watch me refactor some component, and refactor is done",
+      "id": 4
+    },
+    {
+      "title": "A new fresh stream",
+      "description": "A new fresh description and title for patch ",
+      "userId": "106007984774251576901",
+      "id": 5
+    }
+  ]
+}
